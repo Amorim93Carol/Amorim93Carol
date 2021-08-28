@@ -25,11 +25,10 @@
  
 <div>
   <a href="https://www.linkedin.com/in/carolamorim93/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amorim93Carol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim93Carol&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amorim93Carol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim93Carol&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
-    ![Snake animation](https://github.com/Amorim93Carol/Amorim93Carol/blob/output/github-contribution-grid-snake.svg)
+ 
 
   
 
