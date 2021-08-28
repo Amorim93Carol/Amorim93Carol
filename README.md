@@ -29,7 +29,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim93Carol&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-   ![Snake animation](https://github.com/Amorim93Carol)
+    ![Snake animation](https://github.com/Amorim93Carol/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  
 
   
  
