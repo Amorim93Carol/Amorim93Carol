@@ -4,7 +4,7 @@
 
 #### Me chamo  Caroline Amorim  🤓
 
-- 🔭 Atualmente trabalho com Teste de Software.
+- 🔭 Experiência em QA analyst e Desenvolvimento Front-End.
 - 📫 Você pode entrar em contato comigo através dos links:
 
 <div> 
