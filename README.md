@@ -32,7 +32,7 @@
  ##
  
 <div>
-  <a href="https://www.linkedin.com/in/carolamorim93/">
+  <a href="https://www.linkedin.com/in/carolamorim93/" target="_blank">
   <img width="400em" height="170em" src="https://github-readme-stats.vercel.app/api?username=Amorim93Carol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="400em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim93Carol&layout=compact&langs_count=7&theme=radical"/>
 </div>
